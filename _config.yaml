@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: vcl-ln
+title: Visual Cognition Lab
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -7,12 +7,10 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@vcl-ln.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: visualcognitionlab.ln@gmail.com
+  orcid: 0000-0002-7248-0301
+  google-scholar: MyN21LIAAAAJ&hl=en
   github: vcl-ln
-  twitter: vcl-ln
-  youtube: vcl-ln
 
 ### jekyll settings
 
