@@ -23,11 +23,7 @@ nav:
   - link: team
     tooltip: About our team
   - link: News
-    tooltip: News and events
-  - link: news
-    tooltip: News and commentary
-  - link: join
-    tooltip: Join the lab
+    tooltip: News from the lab
   - link: contact
     tooltip: Email, address, and location
 
