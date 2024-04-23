@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Visual Cognition Lab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+# subtitle: 
+description: vision, facial recognition, attention, decision-making, modeling
 header: images/background.jpg
 footer: images/background.jpg
 
@@ -13,6 +13,29 @@ links:
   github: vcl-ln
   # twitter: vcl-ln
   # youtube: vcl-ln
+
+# site nav bar
+nav:
+  - link: research
+    tooltip: Current research projects
+  - link: publications
+    tooltip: Published works
+  - link: team
+    tooltip: About our team
+  - link: News
+    tooltip: News and events
+  - link: news
+    tooltip: News and commentary
+  - link: join
+    tooltip: Join the lab
+  - link: contact
+    tooltip: Email, address, and location
+
+# base directory where site is hosted
+logo: 
+header: images/background.png
+footer: images/background.png
+baseurl: /
 
 ### jekyll settings
 
