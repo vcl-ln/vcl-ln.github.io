@@ -1,8 +1,8 @@
 ---
 ---
 
-$logo-big: 80px;
-$logo: 60px;
+$logo-big: 100px;
+$logo: 80px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
@@ -12,8 +12,8 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 20px;
-  padding: 20px;
+  gap: 30px;
+  padding: 30px;
   box-shadow: var(--shadow);
 
   @if $sticky {
@@ -55,6 +55,7 @@ header a {
   min-width: 0;
   font-family: var(--title);
   text-align: left;
+  margin: 30px;
 }
 
 // main title
