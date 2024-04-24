@@ -1,9 +1,10 @@
 # site properties and page defaults
-title: LNU Visual Cognition Lab
-# subtitle: 
+title: The Visual Cognition Lab
+subtitle: subtitle: Department of Psychology, Lingnan University
 description: vision, facial recognition, attention, decision-making, modeling
 header: images/background.jpg
 footer: images/background.jpg
+
 
 # site social media and other links
 links:
@@ -15,7 +16,7 @@ links:
   # youtube: vcl-ln
 
 # base directory where site is hosted
-logo: 
+logo: images/VCL website Logo.svg
 header: images/background.png
 footer: images/background.png
 baseurl: /
