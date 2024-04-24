@@ -16,7 +16,7 @@ links:
   # youtube: vcl-ln
 
 # base directory where site is hosted
-logo: images/VCL_Logo.png
+#logo: images/VCL_Logo.png
 header: images/background.png
 footer: images/background.png
 baseurl: /
