@@ -27,7 +27,7 @@ header a {
 }
 
 .logo {
-  height: 100px;
+  height: 80px;
 }
 
 .logo > * {
@@ -43,7 +43,6 @@ header a {
   min-width: 0;
   font-family: var(--title);
   text-align: left;
-  margin: 30px;
 }
 
 .title > *:first-child {
@@ -122,7 +121,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 80px 20px;
+  padding: 100px 20px;
   top: unset;
 }
 header[data-big] .home {
@@ -130,7 +129,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 100px;
+  height: 80px;
 }
 header[data-big] .title {
   flex-direction: column;
