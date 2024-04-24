@@ -3,8 +3,8 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 40px;
-  padding: 40px;
+  gap: 30px;
+  padding: 30px;
   box-shadow: var(--shadow);
   position: sticky !important;
   top: 0;
@@ -27,7 +27,7 @@ header a {
 }
 
 .logo {
-  height: 80px;
+  height: 40px;
 }
 
 .logo > * {
@@ -129,7 +129,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 160px;
+  height: 80px;
 }
 header[data-big] .title {
   flex-direction: column;
