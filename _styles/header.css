@@ -27,11 +27,11 @@ header a {
 }
 
 .logo {
-  height: 40px;
+  height: 80px;
 }
 
 .logo > * {
-  height: 150%;
+  height: 100%;
 }
 
 .title {
