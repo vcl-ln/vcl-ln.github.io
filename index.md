@@ -4,22 +4,7 @@ title: Home
 
 # "Vision is the process of discovering from images what is present in the world, and where it is.\"
 # - David Marr (p. 3, cited in: M. R. Bennett, P. M. S. Hacker (2012). History of Cognitive Neuroscience.)
-<!-- {%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+<!-- 
 {:.center} -->
 
 
