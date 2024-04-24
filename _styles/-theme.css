@@ -21,9 +21,9 @@
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Arial", sans-serif;
+  --heading: "Arial", sans-serif;
+  --body: "Arial", sans-serif;
   --code: "Roboto Mono", monospace;
   --xs: 12px;
   --small: 16px;
