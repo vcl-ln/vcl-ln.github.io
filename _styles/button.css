@@ -47,4 +47,12 @@ button {
   flex-direction: row-reverse;
 }
 
+.button[data-style=bare] {
+  font-size: 14px;
+  padding: 0px;
+}
+.button[data-style=bare]:hover {
+  color: var(--secondary);
+}
+
 /*# sourceMappingURL=button.css.map */
