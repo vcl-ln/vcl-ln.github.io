@@ -12,10 +12,11 @@ h4 {
 h1 {
   margin: 40px 0 20px 0;
   font-size: var(--xxl);
-  font-weight: var(--regular);
+  font-weight: var(--bold);
   letter-spacing: 1px;
   text-transform: uppercase;
   text-align: left;
+  color: var(--secondary);
 }
 
 h2 {
@@ -23,23 +24,26 @@ h2 {
   padding-bottom: 5px;
   border-bottom: solid 1px var(--light-gray);
   font-size: var(--xl);
-  font-weight: var(--regular);
+  font-weight: var(--bold);
   letter-spacing: 1px;
-  text-align: left;
+  text-align: center;
+  color: var(--secondary);
 }
 
 h3 {
   margin: 40px 0 20px 0;
   font-size: var(--large);
   font-weight: var(--semi-bold);
-  text-align: left;
+  text-align: center;
+  color: var(--secondary);
 }
 
 h4 {
   margin: 40px 0 20px 0;
   font-size: var(--medium);
   font-weight: var(--semi-bold);
-  text-align: left;
+  text-align: center;
+  color: var(--secondary);
 }
 
 :where(h1, h2, h3, h4) > .icon {
