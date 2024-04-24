@@ -2,11 +2,11 @@
 title: Home
 ---
 
-# "Vision is the process of discovering from images what is present in the world, and where it is.\"
-# - David Marr \\n(*p. 3, cited in: M. R. Bennett, P. M. S. Hacker (2012). History of Cognitive Neuroscience*)
+<!-- # The Elli Papaemmanuil Lab -->
 
+"Vision is the process of discovering from images what is present in the world, and where it is.\"
+- David Marr (_p. 3, cited in: M. R. Bennett, P. M. S. Hacker (2012). History of Cognitive Neuroscience_)
 
-An engaging 1-3 sentence description of your lab.
 
 {% include section.html %}
 
@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include button.html
   link="research"
   text="See our publications"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}

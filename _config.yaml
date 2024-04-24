@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: Visual Cognition Lab
+title: LNU Visual Cognition Lab
 # subtitle: 
 description: vision, facial recognition, attention, decision-making, modeling
 header: images/background.jpg
@@ -13,19 +13,6 @@ links:
   github: vcl-ln
   # twitter: vcl-ln
   # youtube: vcl-ln
-
-# site nav bar
-nav:
-  - link: research
-    tooltip: Current research projects
-  - link: publications
-    tooltip: Published works
-  - link: team
-    tooltip: About our team
-  - link: News
-    tooltip: News from the lab
-  - link: contact
-    tooltip: Email, address, and location
 
 # base directory where site is hosted
 logo: 
