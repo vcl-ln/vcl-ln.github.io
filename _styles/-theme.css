@@ -25,15 +25,18 @@
   --heading: "Barlow", sans-serif;
   --body: "Barlow", sans-serif;
   --code: "Roboto Mono", monospace;
-  --medium: 1rem;
-  --large: 1.2rem;
-  --xl: 1.4rem;
-  --xxl: 1.6rem;
+  --xs: 12px;
+  --small: 16px;
+  --medium: 20px;
+  --large: 30px;
+  --xl: 40px;
+  --xxl: 50px;
   --thin: 200;
   --regular: 400;
   --semi-bold: 500;
   --bold: 600;
-  --spacing: 2;
+  --spacing: 1.6;
+  --font-weight: 350;
   --rounded: 3px;
   --shadow: 0 0 10px 0 var(--overlay);
 }
