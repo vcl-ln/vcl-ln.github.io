@@ -31,6 +31,10 @@
   --code: "Roboto Mono", monospace;
 
   // font sizes
+<<<<<<< HEAD
+=======
+  --medium: 1rem;
+>>>>>>> parent of 00e803b (make fonts bigger)
   --large: 1.2rem;
   --xl: 1.4rem;
   --xxl: 1.6rem;
@@ -42,10 +46,13 @@
   --bold: 600;
 
   // text line spacing
+<<<<<<< HEAD
   --spacing: 1.5;
+=======
+  --spacing: 2;
+>>>>>>> parent of 00e803b (make fonts bigger)
 
   // effects
   --rounded: 3px;
   --shadow: 0 0 10px 0 var(--overlay);
-
 }
