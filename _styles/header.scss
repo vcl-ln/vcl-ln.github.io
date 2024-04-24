@@ -39,11 +39,11 @@ header a {
 }
 
 .logo {
-  height: $logo;
+  height: $logo-big;
 }
 
 .logo > * {
-  height: 100%;
+  height: auto;
 }
 
 .title {
