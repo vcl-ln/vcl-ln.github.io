@@ -50,3 +50,14 @@ button {
 .button[data-flip] {
   flex-direction: row-reverse;
 }
+
+// Custom 
+.button[data-style="bare"] {
+  font-size: 14px;
+  padding: 0px;
+  // background: var(--primary);
+  // color: white;
+  &:hover {
+    color: var(--secondary);
+  }
+}
