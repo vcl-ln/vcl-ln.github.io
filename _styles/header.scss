@@ -1,8 +1,8 @@
 ---
 ---
 
-$logo-big: 120px;
-$logo: 80px;
+$logo-big: 80px;
+$logo: 60px;
 $big-padding: 80px;
 $collapse: 700px;
 $sticky: true;
@@ -151,7 +151,7 @@ header[data-big] {
   }
 
   .logo {
-    height: $logo;
+    height: $logo-big;
   }
 
   .title {
@@ -161,10 +161,30 @@ header[data-big] {
   }
 
   .title > *:first-child {
-    font-size: var(--xxl);
+    font-size: var(--large);
   }
 
   .title > *:last-child {
-    font-size: var(--large);
+    font-size: var(--medium);
+  }
+}
+
+header:not([data-big]) {
+  @media (max-width: $collapse) {
+    justify-content: flex-end;
+    padding: 10px;
+
+    img {
+      margin-top: 24px;
+    }
+    .title > *:first-child {
+      font-size: var(--small);
+    }
+    .title > *:last-child {
+      font-size: var(--xs);
+    }
+    .title {
+      margin: 10px;
+    }
   }
 }
