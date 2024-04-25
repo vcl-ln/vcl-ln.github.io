@@ -15,8 +15,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="See our publications"
   icon="fa-solid fa-arrow-left"
+  text="See our publications"
   flip=true
   style="bare"
 %}
@@ -63,8 +63,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
+  text="Meet our team"  
   flip=true
   style="bare"
 %}
