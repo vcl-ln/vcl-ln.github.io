@@ -18,7 +18,11 @@ footer a:hover {
 }
 
 footer .icon {
-  font-size: var(--xl);
+  font-size: var(--medium);
+}
+
+footer .footer {
+  font-size: 14px;
 }
 
 /*# sourceMappingURL=footer.css.map */
