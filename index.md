@@ -56,27 +56,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="news"
-  text="See our latest news"
-  icon="fa-solid fa-arrow-left"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="news"
-  title="latest news"
-  flip=true
-  style="bare"
-  text=text
-%}
+{% include section.html %}
+### Latest News
+{% include newslist.html data="posts" component="post-title" %}
