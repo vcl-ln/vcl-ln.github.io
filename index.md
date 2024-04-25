@@ -1,10 +1,7 @@
 ---
 ---
 
-## The Visual Cognition Lab 
-
-"Vision is the process of discovering from images what is present in the world, and where it is.\"
-David Marr (_p. 3, cited in: M. R. Bennett, P. M. S. Hacker (2012). History of Cognitive Neuroscience_)
+## "Vision is the process of discovering from images what is present in the world, and where it is."\nDavid Marr \n(_p. 3, cited in: M. R. Bennett, P. M. S. Hacker (2012). History of Cognitive Neuroscience_)
 
 
 {% include section.html %}
