@@ -41,10 +41,3 @@ We want to push the frontier of data science and train the next generation of da
 
 {% include section.html %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
