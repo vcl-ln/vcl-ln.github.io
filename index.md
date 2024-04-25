@@ -12,7 +12,7 @@ Based in Lingnan University, our research mainly focuses on ...
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We conduct research with ...
 
 {%
   include button.html
@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are strongly committed to mentoring young scientists
 
 {%
   include button.html
@@ -53,6 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image="images/photo.jpg"
   link="team"
   title="Our Team"
+  flip = true
   text=text
 %}
 
