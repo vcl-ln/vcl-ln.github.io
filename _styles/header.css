@@ -27,7 +27,7 @@ header a {
 }
 
 .logo {
-  height: 120px;
+  height: 80px;
 }
 
 .logo > * {
@@ -138,10 +138,29 @@ header[data-big] .title {
   text-align: center;
 }
 header[data-big] .title > *:first-child {
-  font-size: var(--xxl);
+  font-size: var(--large);
 }
 header[data-big] .title > *:last-child {
-  font-size: var(--large);
+  font-size: var(--medium);
+}
+
+@media (max-width: 700px) {
+  header:not([data-big]) {
+    justify-content: flex-end;
+    padding: 10px;
+  }
+  header:not([data-big]) img {
+    margin-top: 24px;
+  }
+  header:not([data-big]) .title > *:first-child {
+    font-size: var(--small);
+  }
+  header:not([data-big]) .title > *:last-child {
+    font-size: var(--xs);
+  }
+  header:not([data-big]) .title {
+    margin: 10px;
+  }
 }
 
 /*# sourceMappingURL=header.css.map */
