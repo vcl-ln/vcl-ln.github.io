@@ -2,7 +2,7 @@
 ---
 
 ### "Vision is the process of discovering from images what is present in the world, and where it is."
-### - David Marr (_p. 3, cited in: M. R. Bennett, P. M. S. Hacker (2012). History of Cognitive Neuroscience_)
+### - David Marr<br\>_History of Cognitive Neuroscience_
 
 
 {% include section.html %}
