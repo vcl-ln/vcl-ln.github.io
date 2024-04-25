@@ -5,39 +5,12 @@ nav:
   tooltip: News from the lab
 ---
 
-## {% include icon.html icon="fa-regular fa-envelope" %}Contact
+## {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Our lab is part of the
+{% include search-box.html %}
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  link="https://www.ln.edu.hk/"
-  width="400px"
-%}
+{% include tags.html tags=site.tags %}
 
-{%
-  include button.html
-  type="email"
-  text=site.links.email
-  link=site.links.email
-%}
+{% include search-info.html %}
 
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://maps.app.goo.gl/2XrocXqvfMWDQfp8A"
-%}
-
-{% capture content %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% endcapture %}
-
-{%
-  include grid.html
-  content=content
-  style="square"
-%}
+{% include list.html data="posts" component="post-excerpt" %}
