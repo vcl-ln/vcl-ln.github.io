@@ -5,7 +5,7 @@ nav:
   tooltip: See what we're working on
 ---
 
-## <i class="fas fa-tools"></i>Current Projects
+## {% include icon.html icon="fa-solid fa-tools" %}Current Projects
 
 The links below represent our current areas of research focus.  
 Don't see something here you think ought to be here?  Inquire about joining our lab!
