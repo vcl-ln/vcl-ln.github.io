@@ -6,7 +6,9 @@
 
 {% include section.html %}
 
-## Highlights
+Based in Lingnan University, our research mainly focuses on ...
+
+{% include section.html %}
 
 {% capture text %}
 
