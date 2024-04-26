@@ -57,27 +57,19 @@ header a {
   text-align: left;
 }
 
-@media (max-width: 300px) {
+@media (max-width: 90px) {
   .title-text {
-    max-width: 170px;
+    max-width: 90px;
   }
 }
 
 // main title
-//.title > *:first-child {
-//  font-size: var(--large);
-//}
-
-.title {
+.title > *:first-child {
   font-size: var(--large);
 }
 
 // subtitle
-//.title > *:last-child {
-//  opacity: 0.65;
-//  font-weight: var(--thin);
-//}
-.subtitle {
+.title > *:last-child {
   opacity: 0.65;
   font-weight: var(--thin);
 }
