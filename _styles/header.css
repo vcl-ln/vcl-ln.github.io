@@ -46,11 +46,6 @@ header a {
   margin: 30px;
 }
 
-@media (max-width: 200px) {
-  .title-text {
-    max-width: 70px;
-  }
-}
 .title > *:first-child {
   font-size: var(--large);
 }
