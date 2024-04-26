@@ -27,7 +27,7 @@ header a {
 }
 
 .logo {
-  height: 150px;
+  height: 100px;
 }
 
 .logo > * {
@@ -41,7 +41,6 @@ header a {
   flex-wrap: wrap;
   gap: 5px;
   min-width: 0;
-  max-width: 100px;
   font-family: var(--title);
   text-align: left;
   margin: 30px;
@@ -137,6 +136,7 @@ header[data-big] {
   align-items: center;
   flex-direction: column;
   padding: 100px 20px;
+  max-width: 100px;
   top: unset;
 }
 header[data-big] .home {
@@ -144,7 +144,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 150px;
+  height: 80px;
 }
 header[data-big] .title {
   flex-direction: column;
