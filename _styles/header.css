@@ -1,7 +1,7 @@
 header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: left;
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
@@ -27,11 +27,11 @@ header a {
 }
 
 .logo {
-  height: 60px;
+  height: 150px;
 }
 
 .logo > * {
-  height: 100%;
+  height: auto;
 }
 
 .title {
@@ -143,7 +143,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 60px;
+  height: 150px;
 }
 header[data-big] .title {
   flex-direction: column;
