@@ -1,8 +1,8 @@
 ---
 ---
 
-$logo-big: 150px;
-$logo: 80px;
+$logo-big: 60px;
+$logo: 40px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
@@ -39,14 +39,14 @@ header a {
 }
 
 .logo {
-  height: $logo;
+  height: $logo-big;
 }
 
 .logo > * {
   height: 100%;
 }
 
-.title-text {
+.title {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
