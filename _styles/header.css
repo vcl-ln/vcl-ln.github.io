@@ -48,7 +48,6 @@ header a {
 
 .title > *:first-child {
   font-size: var(--large);
-  max-width: 500px;
 }
 
 .title > *:last-child {
