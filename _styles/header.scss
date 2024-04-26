@@ -39,7 +39,7 @@ header a {
 }
 
 .logo {
-  height: $logo-big;
+  height: $logo;
 }
 
 .logo > * {
@@ -62,6 +62,7 @@ header a {
 // main title
 .title > *:first-child {
   font-size: var(--large);
+  max-width: 500px;
 }
 
 // subtitle
@@ -165,14 +166,13 @@ header[data-big] {
   }
 
   .logo {
-    height: $logo;
+    height: $logo-big;
   }
 
   .title {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    max-width: 80%;
   }
 
   .title > *:first-child {
