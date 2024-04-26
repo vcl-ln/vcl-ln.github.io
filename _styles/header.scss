@@ -1,7 +1,7 @@
 ---
 ---
 
-$logo-big: 150px;
+$logo-big: 100px;
 $logo: 80px;
 $big-padding: 100px;
 $collapse: 700px;
@@ -53,7 +53,6 @@ header a {
   flex-wrap: wrap;
   gap: 5px;
   min-width: 0;
-  max-width: 100px;
   font-family: var(--title);
   text-align: left;
   margin: 30px;
@@ -155,6 +154,7 @@ header[data-big] {
   align-items: center;
   flex-direction: column;
   padding: $big-padding 20px;
+  max-width: 100px;
 
   @if $sticky {
     top: unset;
@@ -166,7 +166,7 @@ header[data-big] {
   }
 
   .logo {
-    height: $logo-big;
+    height: $logo;
   }
 
   .title {
