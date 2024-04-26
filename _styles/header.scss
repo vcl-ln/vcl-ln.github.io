@@ -39,7 +39,7 @@ header a {
 }
 
 .logo {
-  height: $logo-big;
+  height: $logo;
 }
 
 .logo > * {
@@ -165,7 +165,7 @@ header[data-big] {
   }
 
   .logo {
-    height: $logo-big;
+    height: $logo;
   }
 
   .title {
