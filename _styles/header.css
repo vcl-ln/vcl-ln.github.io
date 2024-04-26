@@ -27,14 +27,14 @@ header a {
 }
 
 .logo {
-  height: 60px;
+  height: 80px;
 }
 
 .logo > * {
   height: 100%;
 }
 
-.title {
+.title-text {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
@@ -147,7 +147,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 60px;
+  height: 150px;
 }
 header[data-big] .title {
   flex-direction: column;
@@ -155,8 +155,11 @@ header[data-big] .title {
   text-align: center;
   font-size: var(--large);
 }
-header[data-big] .subtitle {
+header[data-big] .title > *:first-child {
   font-size: var(--large);
+}
+header[data-big] .title > *:last-child {
+  font-size: var(--medium);
 }
 
 /*# sourceMappingURL=header.css.map */
