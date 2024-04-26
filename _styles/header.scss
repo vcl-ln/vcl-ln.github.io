@@ -3,7 +3,7 @@
 
 $logo-big: 90px;
 $logo: 60px;
-$big-padding: 80px;
+$big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
 
@@ -56,6 +56,12 @@ header a {
   font-family: var(--title);
   text-align: left;
   margin: 30px;
+}
+
+@media (max-width: 300px) {
+  .title-text {
+    max-width: 170px;
+  }
 }
 
 // main title
@@ -118,7 +124,20 @@ nav > a:hover {
 header:not([data-big]) {
   @media (max-width: $collapse) {
     justify-content: flex-end;
+    padding: 10px;
 
+    img {
+      margin-top: 24px;
+    }
+    .title > *:first-child {
+      font-size: var(--small);
+    }
+    .title > *:last-child {
+      font-size: var(--xs);
+    }
+    .title {
+      margin: 10px;
+    }
     .nav-toggle {
       display: flex;
     }
@@ -172,25 +191,5 @@ header[data-big] {
 
   .subtitle {
     font-size: var(--large);
-  }
-}
-
-header:not([data-big]) {
-  @media (max-width: $collapse) {
-    justify-content: flex-end;
-    padding: 10px;
-
-    img {
-      margin-top: 24px;
-    }
-    .title > *:first-child {
-      font-size: var(--small);
-    }
-    .title > *:last-child {
-      font-size: var(--xs);
-    }
-    .title {
-      margin: 10px;
-    }
   }
 }
