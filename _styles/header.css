@@ -156,12 +156,7 @@ header[data-big] .title {
   align-items: center;
   text-align: center;
   margin-bottom: 15px;
-}
-header[data-big] .title > *:first-child {
   font-size: var(--large);
-}
-header[data-big] .title > *:last-child {
-  font-size: var(--medium);
 }
 header[data-big] .subtitle {
   font-size: var(--large);
