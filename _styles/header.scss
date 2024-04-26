@@ -10,7 +10,7 @@ $sticky: true;
 header {
   display: flex;
   justify-content: space-between;
-  align-items: left;
+  align-items: center;
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
@@ -43,7 +43,7 @@ header a {
 }
 
 .logo > * {
-  height: auto;
+  height: 100%;
 }
 
 .title {
@@ -53,6 +53,7 @@ header a {
   flex-wrap: wrap;
   gap: 5px;
   min-width: 0;
+  max-width: 100px;
   font-family: var(--title);
   text-align: left;
   margin: 30px;
