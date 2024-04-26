@@ -148,7 +148,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 120px;
+  height: 80px;
 }
 header[data-big] .title {
   flex-direction: column;
