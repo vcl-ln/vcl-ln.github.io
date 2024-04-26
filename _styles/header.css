@@ -27,14 +27,14 @@ header a {
 }
 
 .logo {
-  height: 60px;
+  height: 80px;
 }
 
 .logo > * {
   height: 100%;
 }
 
-.title {
+.title-text {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
@@ -43,7 +43,6 @@ header a {
   min-width: 0;
   font-family: var(--title);
   text-align: left;
-  margin: 30px;
 }
 
 .title > *:first-child {
@@ -143,7 +142,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 60px;
+  height: 150px;
 }
 header[data-big] .title {
   flex-direction: column;
