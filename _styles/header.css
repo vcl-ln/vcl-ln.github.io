@@ -45,9 +45,9 @@ header a {
   text-align: left;
 }
 
-@media (max-width: 90px) {
+@media (max-width: 300px) {
   .title-text {
-    max-width: 90px;
+    max-width: 170px;
   }
 }
 .title > *:first-child {
