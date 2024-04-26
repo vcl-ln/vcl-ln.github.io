@@ -46,6 +46,11 @@ header a {
   margin: 30px;
 }
 
+@media (max-width: 300px) {
+  .title-text {
+    max-width: 170px;
+  }
+}
 .title > *:first-child {
   font-size: var(--large);
 }
@@ -104,6 +109,19 @@ nav > a:hover {
 @media (max-width: 700px) {
   header:not([data-big]) {
     justify-content: flex-end;
+    padding: 10px;
+  }
+  header:not([data-big]) img {
+    margin-top: 24px;
+  }
+  header:not([data-big]) .title > *:first-child {
+    font-size: var(--small);
+  }
+  header:not([data-big]) .title > *:last-child {
+    font-size: var(--xs);
+  }
+  header:not([data-big]) .title {
+    margin: 10px;
   }
   header:not([data-big]) .nav-toggle {
     display: flex;
@@ -122,7 +140,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 80px 20px;
+  padding: 100px 20px;
   top: unset;
 }
 header[data-big] .home {
@@ -147,25 +165,6 @@ header[data-big] .title > *:last-child {
 }
 header[data-big] .subtitle {
   font-size: var(--large);
-}
-
-@media (max-width: 700px) {
-  header:not([data-big]) {
-    justify-content: flex-end;
-    padding: 10px;
-  }
-  header:not([data-big]) img {
-    margin-top: 24px;
-  }
-  header:not([data-big]) .title > *:first-child {
-    font-size: var(--small);
-  }
-  header:not([data-big]) .title > *:last-child {
-    font-size: var(--xs);
-  }
-  header:not([data-big]) .title {
-    margin: 10px;
-  }
 }
 
 /*# sourceMappingURL=header.css.map */
