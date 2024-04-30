@@ -10,17 +10,6 @@ layout: default
 </p>
 -->
 
-{% include portrait.html lookup=page.slug %}
-{{ content }}
-
-{% assign aliases = page.aliases
-  | default: page.name
-  | default: page.title
-  | join: ","
-  | split: ","
-  | array_filter
-%}
-
 <div class="text-center mt-5">
   <!-- Avatar -->
   <img src="/{{ page.image }}"

@@ -1,7 +1,7 @@
 ---
 name: William HAYWARD
 position: Dean of Social Science
-image: images/team/hayward-2.jpeg
+image: images/team/hayward-2.jpg
 role: pi
 links:
   home-page: https://www.ln.edu.hk/psy/about-us/people/academic-staff/professor-hayward-william
