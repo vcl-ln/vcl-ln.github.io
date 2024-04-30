@@ -2,11 +2,6 @@
 layout: default
 ---
 
-
-{% capture floatcontent %}
-
-{% include portrait.html lookup=page.slug %}
-
 <!--
 <p class="center">
   <a href="{{ search | relative_url }}">
@@ -14,6 +9,8 @@ layout: default
   </a>
 </p>
 -->
+
+{% include portrait.html lookup=page.slug %}
 
 <div class="text-center mt-5">
   <!-- Avatar -->
@@ -35,6 +32,8 @@ layout: default
   </div>
 
 </div>
+
+{% capture floatcontent %}
 
 <!-- Affiliations -->
 {% if page.affiliations %}
