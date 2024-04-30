@@ -1,9 +1,9 @@
 ---
 name: William HAYWARD
 position: 
-  Principle Investigator
-  Chair Professor of Psychology
-  Dean, Faculty of Social Sciences
+  <br>Principle Investigator</br>
+  <br>Chair Professor of Psychology</br>
+  <br>Dean, Faculty of Social Sciences</br>
 image: images/team/hayward-2.jpg
 role: pi
 links:
