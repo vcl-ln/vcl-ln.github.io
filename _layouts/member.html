@@ -20,7 +20,8 @@ layout: default
   <!-- Name & Role -->
   <h2>{{ page.name }}</h2>
   <div class="text-center mt-5">{{ page.position }}</div> <br>
-
+  
+  {% include portrait.html lookup=page.slug %}
   <div>
     {% for link in page.links %}
       {% assign key = link[0] %}
