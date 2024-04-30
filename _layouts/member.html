@@ -20,7 +20,11 @@ layout: default
 
   <!-- Name & Role -->
   <h2>{{ page.name }}</h2>
-  <h3><font color="black"><div class="text-center mt-5">{{ page.position }}</div></font></h3><br>
+  <ul>
+    {% for positions in page.position %}
+      <h3><li><font color="black"><div class="text-center mt-5"></div>{{ positions }}</font></li></h3>
+      {% endfor %}
+  </ul>
   
   <div>
     {% for link in page.links %}
@@ -35,7 +39,7 @@ layout: default
 <!-- Affiliations -->
 {% if page.affiliations %}
 <div>
-  <h3>Positions</h3>
+  <h3>Affiliations</h3>
   <ul>
       {% for education in page.affiliations %}
       <li>{{ education }}</li>

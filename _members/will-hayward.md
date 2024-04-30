@@ -1,6 +1,9 @@
 ---
 name: William HAYWARD
-position: Principle Investigator
+position: 
+  Principle Investigator
+  Chair Professor of Psychology
+  Dean, Faculty of Social Sciences
 image: images/team/hayward-2.jpg
 role: pi
 links:
@@ -9,8 +12,7 @@ links:
   email: willhayward@ln.edu.hk
   google-scholar: MyN21LIAAAAJ&hl=en
 affiliations:
-  - Chair Professor of Psychology
-  - Dean, Faculty of Social Sciences
+
 ---
 
 I’m interested in visual perception and visual cognition, specifically how the brain uses visual information to achieve an understanding about the world. My research is mainly focused on face and object recognition and visual attention. Although I principally use behavioural methods, including eye-tracking, increasingly my lab also uses EEG/ERP, and we have previously also conducted studies using fMRI. 
