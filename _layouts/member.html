@@ -21,6 +21,7 @@ layout: default
   <h2>{{ page.name }}</h1>
   <div class="text-center mt-5">{{ page.position }}</div> <br>
 
+  <h2>
   <div>
     {% for link in page.links %}
       {% assign key = link[0] %}
@@ -28,7 +29,7 @@ layout: default
       {% include button.html type=key link=value style="bare" %}
     {% endfor %}
   </div>
-
+  <h2>
 </div>
 
 <!-- Affiliations -->
