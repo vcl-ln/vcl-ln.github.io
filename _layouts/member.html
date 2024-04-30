@@ -12,8 +12,7 @@ layout: default
 
 <div class="text-center mt-5">
   <!-- Avatar -->
-  {% include portrait.html%}
-  <img src="/{{ page.image }}"
+  <img src={{ page.image | relative_url }}
        style=" max-width: 250px; "
        class="portrait-wrapper"
        />
