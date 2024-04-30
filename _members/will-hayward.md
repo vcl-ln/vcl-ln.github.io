@@ -4,8 +4,8 @@ position: Dean of Social Science
 image: images/team/hayward-2.jpeg
 role: pi
 links:
-  orcid: 0000-0002-7248-0301
   home-page: https://www.ln.edu.hk/psy/about-us/people/academic-staff/professor-hayward-william
+  orcid: 0000-0002-7248-0301
   email: willhayward@ln.edu.hk
   google-scholar: MyN21LIAAAAJ&hl=en
 affiliations:
