@@ -20,7 +20,9 @@ layout: default
 
   <!-- Name & Role -->
   <h2>{{ page.name }}</h2>
-  <h4><div class="text-center mt-5">{{ page.position }}</div></h4><br>
+  <p class="center">
+    {%- include role.html type=page.role text=false description=page.description -%}
+  </p>
   
   <div>
     {% for link in page.links %}
