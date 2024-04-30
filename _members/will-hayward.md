@@ -1,7 +1,7 @@
 ---
 name: William HAYWARD
 position: Dean of Social Science
-image: images/photo.jpg
+image: images/team/hayward-2.jpeg
 role: pi
 links:
   orcid: 0000-0002-7248-0301
