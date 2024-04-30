@@ -12,6 +12,7 @@ layout: default
 
 <div class="text-center mt-5">
   <!-- Avatar -->
+  {% include portrait.html%}
   <img src="/{{ page.image }}"
        style=" max-width: 250px; "
        class="portrait-wrapper"
@@ -21,7 +22,6 @@ layout: default
   <h2>{{ page.name }}</h2>
   <div class="text-center mt-5">{{ page.position }}</div> <br>
   
-  {% include portrait.html%}
   <div>
     {% for link in page.links %}
       {% assign key = link[0] %}
