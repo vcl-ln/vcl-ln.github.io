@@ -1,8 +1,7 @@
 ---
 name: William HAYWARD
 position: 
-  - Dean, Faculty of Social Sciences
-  - Chair Professor of Psychology
+  Chair Professor of Psychology\nDean, Faculty of Social Sciences
 image: images/team/hayward-2.jpg
 role: pi
 links:
