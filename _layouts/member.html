@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+{% capture floatcontent %}
+
+{% include portrait.html lookup=page.slug %}
+
 <!--
 <p class="center">
   <a href="{{ search | relative_url }}">
@@ -14,7 +19,7 @@ layout: default
   <!-- Avatar -->
   <img src="/{{ page.image }}"
        style=" max-width: 250px; "
-       class="portrait"
+       class="portrait-image"
        />
 
   <!-- Name & Role -->
