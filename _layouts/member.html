@@ -11,7 +11,7 @@ layout: default
 -->
 
 {% include portrait.html lookup=page.slug %}
-
+{{ content }}
 <div class="text-center mt-5">
   <!-- Avatar -->
   <img src="/{{ page.image }}"
@@ -32,8 +32,6 @@ layout: default
   </div>
 
 </div>
-
-{% capture floatcontent %}
 
 <!-- Affiliations -->
 {% if page.affiliations %}
