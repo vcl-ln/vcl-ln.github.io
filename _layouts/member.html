@@ -18,7 +18,7 @@ layout: default
        />
 
   <!-- Name & Role -->
-  <h2>{{ page.name }}</h1>
+  <h3>{{ page.name }}</h3>
   <div class="text-center mt-5">{{ page.position }}</div> <br>
 
   <div>
@@ -34,7 +34,7 @@ layout: default
 <!-- Affiliations -->
 {% if page.affiliations %}
 <div>
-  <h3>Affiliations</h3>
+  <h4>Affiliations</h4>
   <ul>
       {% for education in page.affiliations %}
       <li>{{ education }}</li>
@@ -47,14 +47,14 @@ layout: default
 
 <!-- Bio -->
 <div>
-  <h3>Biography</h3>
+  <h4>Biography</h4>
   {{ content }}
 </div>
 
 <!-- Education -->
 {% if page.education %}
 <div>
-  <h3>Education</h3>
+  <h4>Education</h4>
   <ul>
       {% for education in page.education %}
       <li>{{ education }}</li>
