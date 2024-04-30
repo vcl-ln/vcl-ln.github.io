@@ -22,12 +22,13 @@ button {
   background: var(--primary);
   color: var(--background);
   text-align: center;
+  font: inherit; //new added
   font-family: var(--heading);
   font-weight: var(--semi-bold);
-  line-height: 1;
+  //line-height: 1;
   text-decoration: none;
   vertical-align: middle;
-  -webkit-appearance: none;
+  //-webkit-appearance: none;
   appearance: none;
   transition-property: background, color;
 }
