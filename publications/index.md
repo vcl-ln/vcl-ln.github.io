@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-## {% include icon.html icon="fa-solid fa-microscope" %}Research
+## {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 xxx...
 
@@ -15,13 +15,13 @@ xxx...
   include button.html
   icon="fa-solid fa-book-open"
   text="More on PubMed"
-  link="https://pubmed.ncbi.nlm.nih.gov/?term=casey%20s%20greene"
+  link="https://pubmed.ncbi.nlm.nih.gov/?term=william+hayward"
 %}
 {%
   include button.html
   icon="fa-brands fa-google"
   text="More on Google Scholar"
-  link="http://scholar.google.com/citations?hl=en&user=ETJoidYAAAAJ"
+  link="https://scholar.google.com/citations?hl=en&user=MyN21LIAAAAJ&hl=en"
 %}
 
 The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!
