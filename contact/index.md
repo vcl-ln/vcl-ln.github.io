@@ -11,7 +11,7 @@ Our lab is part of the
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/Lingnan.jpg"
   link="https://www.ln.edu.hk/"
   width="400px"
 %}
