@@ -24,8 +24,6 @@ xxx...
   link="https://scholar.google.com/citations?hl=en&user=MyN21LIAAAAJ&hl=en"
 %}
 
-The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!
-
 {% include search-box.html %}
 
 {% include search-info.html %}
