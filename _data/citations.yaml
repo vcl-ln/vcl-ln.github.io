@@ -11,8 +11,8 @@
   date: '2023-08-11'
   link: https://doi.org/gtskn8
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.31234/osf.io/qa8ys
   title: Facilitation and interference are asymmetric in holistic face processing
   authors:
@@ -24,8 +24,8 @@
   date: '2022-04-17'
   link: https://doi.org/gtskn9
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.31234/osf.io/qu47m
   title: 'All-or-none neural mechanisms underlying face categorisation:  evidence
     from the N170'
@@ -37,8 +37,8 @@
   date: '2022-02-18'
   link: https://doi.org/gtskpb
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.31234/osf.io/j8g6z
   title: Holistic face processing is influenced by non-conscious visual information
   authors:
@@ -50,8 +50,8 @@
   date: '2021-06-29'
   link: https://doi.org/gtskpc
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2018.1541035
   title: The relation of discrete stimuli can be integrated despite the failure of
     conscious identification
@@ -63,8 +63,8 @@
   date: '2018-10-21'
   link: https://doi.org/gtskpd
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/s13423-018-1433-x
   title: Integrating predictive frameworks and cognitive models of face perception
   authors:
@@ -76,8 +76,8 @@
   date: '2018-02-08'
   link: https://doi.org/gfrrz5
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.visres.2018.02.008
   title: Other-race faces are given more weight than own-race faces when assessing
     the composition of crowds
@@ -90,8 +90,8 @@
   date: '2019-04-01'
   link: https://doi.org/gmk3ct
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cognition.2017.08.003
   title: Hidden Markov model analysis reveals the advantage of analytic eye movement
     patterns in face recognition across cultures
@@ -105,8 +105,8 @@
   date: '2017-12-01'
   link: https://doi.org/gcgvm4
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2017.1324933
   title: The concurrent encoding of viewpoint-invariant and viewpoint-dependent information
     in visual object recognition
@@ -117,8 +117,8 @@
   date: '2017-03-16'
   link: https://doi.org/gnbb5g
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/17470218.2016.1146781
   title: 'The other-race effect in face learning: Using naturalistic images to investigate
     face ethnicity effects in a learning paradigm'
@@ -132,8 +132,8 @@
   date: '2017-05-01'
   link: https://doi.org/gcx8xx
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.concog.2016.11.010
   title: Visual perception and visual mental imagery of emotional faces generate similar
     expression aftereffects
@@ -145,8 +145,8 @@
   date: '2017-02-01'
   link: https://doi.org/f9p7jq
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pone.0148623
   title: Converging Evidence of Ubiquitous Male Bias in Human Sex Perception
   authors:
@@ -161,8 +161,8 @@
   date: '2016-02-09'
   link: https://doi.org/f8rsx5
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/xhp0000246
   title: Holistic processing of face configurations and components.
   authors:
@@ -175,8 +175,8 @@
   date: '2016-10-01'
   link: https://doi.org/f86pcb
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2016.1235066
   title: Perception and imagery of faces generate similar gender aftereffects
   authors:
@@ -187,8 +187,8 @@
   date: '2016-03-15'
   link: https://doi.org/gtskpf
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pone.0141353
   title: How Well Do Computer-Generated Faces Tap Face Expertise?
   authors:
@@ -204,8 +204,8 @@
   date: '2015-11-04'
   link: https://doi.org/f79m39
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/17470218.2015.1017512
   title: Stereo Disparity Facilitates View Generalization during Shape Recognition
     for Solid Multipart Objects
@@ -218,8 +218,8 @@
   date: '2015-12-01'
   link: https://doi.org/gtskpg
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/14.9.6
   title: Face format at encoding affects the other-race effect in face memory
   authors:
@@ -230,8 +230,8 @@
   date: '2014-08-07'
   link: https://doi.org/f6qss9
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2014.944613
   title: "Holistic processing for left\u2013right composite faces in Chinese and Caucasian\
     \ observers"
@@ -244,8 +244,8 @@
   date: '2014-08-27'
   link: https://doi.org/gtskph
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.visres.2014.09.006
   title: Holistic processing, contact, and the other-race effect in face recognition
   authors:
@@ -256,8 +256,8 @@
   date: '2014-12-01'
   link: https://doi.org/gtskpj
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/a0035939
   title: Individual differences in adaptive coding of face identity are linked to
     individual differences in face recognition ability.
@@ -271,8 +271,8 @@
   date: '2014-01-01'
   link: https://doi.org/f56ghx
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/a0037897
   title: 'No attentional capture for simple visual search: Evidence for a dual-route
     account.'
@@ -283,8 +283,8 @@
   date: '2014-12-01'
   link: https://doi.org/f6rcxd
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2014.918912
   title: Other-race effects manifest in overall performance, not qualitative processing
     style
@@ -297,8 +297,8 @@
   date: '2014-06-09'
   link: https://doi.org/gtskpk
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/17588928.2014.912207
   title: Processing of configural and componential information in face-selective cortical
     areas
@@ -314,8 +314,8 @@
   date: '2014-05-02'
   link: https://doi.org/gtskpm
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2013.822446
   title: Dynamic orientation cues decrease the viewpoint cost of mental rotation
   authors:
@@ -327,8 +327,8 @@
   date: '2013-06-01'
   link: https://doi.org/gtskpn
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/fpsyg.2013.00029
   title: Holistic Processing for Other-Race Faces in Chinese Participants Occurs for
     Upright but Not Inverted Faces
@@ -340,8 +340,8 @@
   date: '2013-01-01'
   link: https://doi.org/gtskpp
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/13.1.15
   title: 'Integrative processing of invariant aspects of faces: Effect of gender and
     race processing on identity analysis'
@@ -352,8 +352,8 @@
   date: '2013-01-10'
   link: https://doi.org/gbcj5w
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: eid:2-s2.0-84884573771
   title: Is there an own-race preference in attractiveness?
   publisher: Evolutionary Psychology
@@ -375,8 +375,8 @@
   date: '2013-09-01'
   link: https://doi.org/ghws4x
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2013.824530
   title: 'The other-race effect: Holistic coding differences and beyond'
   authors:
@@ -387,8 +387,8 @@
   date: '2013-09-01'
   link: https://doi.org/gtskpq
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/wcs.1235
   title: Visual search
   authors:
@@ -398,8 +398,8 @@
   date: '2013-03-19'
   link: https://doi.org/gr5mct
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/12.4.10
   title: 'Dimension-specific signal modulation in visual search: Evidence from inter-stimulus
     surround suppression'
@@ -410,8 +410,8 @@
   date: '2012-04-18'
   link: https://doi.org/f992fn
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/a0027943
   title: Face inversion disproportionately disrupts sensitivity to vertical over horizontal
     changes in eye position.
@@ -422,8 +422,8 @@
   date: '2012-12-01'
   link: https://doi.org/f4jx9f
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/a0029035
   title: Repetition blindness reveals differences between the representations of manipulable
     and nonmanipulable objects.
@@ -437,8 +437,8 @@
   date: '2012-01-01'
   link: https://doi.org/f4b2gx
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/p7338
   title: Whatever Happened to Object-Centered Representations?
   authors:
@@ -447,8 +447,8 @@
   date: '2012-01-01'
   link: https://doi.org/gtskpr
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/s13423-011-0127-4
   title: Inconsistent individual personality description eliminates the other-race
     effect
@@ -461,8 +461,8 @@
   date: '2011-07-07'
   link: https://doi.org/d24cc6
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/APP.72.3.591
   title: Holistic processing underlies gender judgments of faces
   authors:
@@ -472,8 +472,8 @@
   date: '2010-04-01'
   link: https://doi.org/cjwskv
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/p6608
   title: 'Processes Underlying the Cross-Race Effect: An Investigation of Holistic,
     Featural, and Relational Processing of Own-Race versus Other-Race Faces'
@@ -489,8 +489,8 @@
   date: '2010-01-01'
   link: https://doi.org/fg4rkr
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/a0017447
   title: Repetition blindness for rotated objects.
   authors:
@@ -502,8 +502,8 @@
   date: '2010-01-01'
   link: https://doi.org/dckbzm
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/PBR.16.5.832
   title: A stereo disadvantage for recognizing rotated familiar objects
   authors:
@@ -513,8 +513,8 @@
   date: '2009-10-01'
   link: https://doi.org/cnk7bg
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1348/000712608X396503
   title: "Contact and other\u2010race effects in configural and component processing\
     \ of faces"
@@ -529,8 +529,8 @@
   date: '2009-11-01'
   link: https://doi.org/fg2vj2
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cognition.2009.07.008
   title: Dissociating the effects of angular disparity and image similarity in mental
     rotation and object recognition
@@ -542,8 +542,8 @@
   date: '2009-10-01'
   link: https://doi.org/ffvs8j
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/0096-1523.35.1.119
   title: 'Feature integration theory revisited: Dissociating feature detection and
     attentional guidance in visual search.'
@@ -554,8 +554,8 @@
   date: '2009-01-01'
   link: https://doi.org/bq6556
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/APP.71.7.1534
   title: Sensitivity to attachment, alignment, and contrast polarity variation in
     local perceptual grouping
@@ -566,8 +566,8 @@
   date: '2009-09-28'
   link: https://doi.org/crpr6f
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.actpsy.2009.03.001
   title: 'Spatial working memory maintenance: Does attention play a role? A visual
     search study'
@@ -579,8 +579,8 @@
   date: '2009-10-01'
   link: https://doi.org/d9254b
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cognition.2007.04.002
   title: An own-race advantage for components as well as configurations in face recognition
   authors:
@@ -591,8 +591,8 @@
   date: '2008-02-01'
   link: https://doi.org/dr82qk
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506280802478990
   title: Object Perception, Attention, and Memory 2008 Conference Report 16th Annual
     Meeting, Chicago, IL, USA
@@ -601,8 +601,8 @@
   date: '2008-11-01'
   link: https://doi.org/dchzp9
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506280701350647
   title: Race-contingent aftereffects suggest distinct perceptual norms for different
     race faces
@@ -614,8 +614,8 @@
   date: '2008-08-01'
   link: https://doi.org/dgj2rc
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/p5499
   title: Familiar Other-Race Faces Show Normal Holistic Processing and are Robust
     to Perceptual Stress
@@ -629,8 +629,8 @@
   date: '2007-02-01'
   link: https://doi.org/bfgjx6
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/17470210701467870
   title: Opposite Aftereffects for Chinese and Caucasian Faces are Selective for Social
     Category Information and not Just Physical Face Differences
@@ -642,8 +642,8 @@
   date: '2007-10-01'
   link: https://doi.org/bq37kj
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506280600783658
   title: Spatial updating during locomotion does not eliminate viewpoint-dependent
     visual object processing
@@ -657,8 +657,8 @@
   date: '2007-05-01'
   link: https://doi.org/dnxggw
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/BF03194003
   title: Dissociating viewpoint costs in mental rotation and object recognition
   authors:
@@ -670,8 +670,8 @@
   date: '2006-10-01'
   link: https://doi.org/b7b5wr
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/BF03193876
   title: 'Expert face coding: Configural and component coding of own-race and other-race
     faces'
@@ -683,8 +683,8 @@
   date: '2006-06-01'
   link: https://doi.org/cnfvv6
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/p5313
   title: Font Tuning Associated with Expertise in Letter Perception
   authors:
@@ -696,8 +696,8 @@
   date: '2006-04-01'
   link: https://doi.org/dwcrb9
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/BF03193725
   title: The configural advantage in object change detection persists across depth
     rotation
@@ -710,8 +710,8 @@
   date: '2006-11-01'
   link: https://doi.org/bxkv8z
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506280544000228
   title: The role of attention in processing configural and shape information in 3-D
     novel objects
@@ -724,8 +724,8 @@
   date: '2006-03-01'
   link: https://doi.org/b8rzvp
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s11145-004-7343-5
   title: Chinese character acquisition and visual skills in two Chinese scripts
   authors:
@@ -738,8 +738,8 @@
   date: '2005-03-01'
   link: https://doi.org/cm9s2b
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/0096-1523.31.1.110
   title: 'Constraints on View Combination: Effects of Self-Occlusion and Differences
     Among Familiar and Novel Views.'
@@ -750,8 +750,8 @@
   date: '2005-01-01'
   link: https://doi.org/d24zr8
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1163/1568537054068688
   title: Cultural Difference in the Application of the Diagnosticity Principle to
     Schematic Faces
@@ -765,8 +765,8 @@
   date: '2005-01-01'
   link: https://doi.org/d25tfp
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.4135/9781848608177.n2
   title: 'Visual Perception II: High-Level Vision'
   authors:
@@ -776,8 +776,8 @@
   date: '2005-01-01'
   link: https://doi.org/gtskps
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/BF03196379
   title: When are viewpoint costs greater for silhouettes than for shaded images?
   authors:
@@ -788,8 +788,8 @@
   date: '2005-04-01'
   link: https://doi.org/fdw65p
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/CABN.4.1.100
   title: Laterality effects in the recognition of depth-rotated novel objects
   authors:
@@ -800,8 +800,8 @@
   date: '2004-03-01'
   link: https://doi.org/cjvwz3
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.tics.2003.08.004
   title: 'After the viewpoint debate: where next in object recognition?'
   authors:
@@ -810,8 +810,8 @@
   date: '2003-10-01'
   link: https://doi.org/cj9bhr
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/713756672
   title: Detection of three types of changes to novel objects
   authors:
@@ -822,8 +822,8 @@
   date: '2003-01-01'
   link: https://doi.org/b2fzhk
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/S0896-6273(02)00622-0
   title: BOLD Activity during Mental Rotation and Viewpoint-Dependent Object Recognition
   authors:
@@ -837,8 +837,8 @@
   date: '2002-03-01'
   link: https://doi.org/bgsw7p
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: eid:2-s2.0-0036488311
   title: Two visual systems but only one theory of perception
   publisher: Behavioral and Brain Sciences
@@ -858,8 +858,8 @@
   date: '2001-10-01'
   link: https://doi.org/c3tmj3
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/S0042-6989(00)00179-6
   title: 'Differing views on views: comments on Biederman and Bar (1999)'
   authors:
@@ -869,8 +869,8 @@
   date: '2000-12-01'
   link: https://doi.org/cffkfm
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/1467-9280.00207
   title: Viewpoint Dependence and Object Discriminability
   authors:
@@ -880,8 +880,8 @@
   date: '2000-01-01'
   link: https://doi.org/cnqzf7
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/p2971
   title: Recognizing Silhouettes and Shaded Images across Depth Rotation
   authors:
@@ -892,8 +892,8 @@
   date: '1999-10-01'
   link: https://doi.org/fkvzt6
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/0096-1523.24.2.427
   title: Effects of outline shape in object recognition.
   authors:
@@ -902,8 +902,8 @@
   date: '1998-04-01'
   link: https://doi.org/bnz7c6
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/1089
   title: Three-dimensional object recognition is viewpoint dependent
   authors:
@@ -915,8 +915,8 @@
   date: '1998-08-01'
   link: https://doi.org/c4k9d5
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/0096-1523.23.5.1511
   title: Testing conditions for viewpoint invariance in object recognition.
   authors:
@@ -926,8 +926,8 @@
   date: '1997-01-01'
   link: https://doi.org/dgqpf8
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/0010-0277(94)00643-Y
   title: Spatial language and spatial representation
   authors:
@@ -937,63 +937,28 @@
   date: '1995-04-01'
   link: https://doi.org/b4xxnz
   orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1177/147470491301100410
+  title: Is There an Own-Race Preference in Attractiveness?
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Darren Burke
+  - Caroline Nolan
+  - William Gordon Hayward
+  - Robert Russell
+  - Danielle Sulikowski
+  publisher: Evolutionary Psychology
+  date: '2013-10-01'
+  link: https://doi.org/gcd5r7
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1017/s0140525x02250025
+  title: Two visual systems but only one theory of perception
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Darren Burke
+  - William G. Hayward
+  publisher: Behavioral and Brain Sciences
+  date: '2002-02-01'
+  link: https://doi.org/b85h5n
   plugin: sources.py
   file: sources.yaml
