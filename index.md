@@ -26,6 +26,7 @@ Our lab utilizes behavioral tasks alongside EEG and eye-tracking to explore our 
   link="projects"
   title="Our Current Projects"
   text=text
+  flip = true
 %}
 
 {% capture text %}
