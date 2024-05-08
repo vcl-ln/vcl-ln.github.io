@@ -11,7 +11,19 @@ The LN Visual Cognition Lab values curiosity...
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %} <br>
+### Director 
+{% capture floatcontent %}
+{% include list.html data="members" component="portrait" filters="role: pi" %} 
+{% endcapture %}
+
+{% include float.html content=floatcontent %}
+{% assign member = site.members | where: "slug", "willhayward" | first %}
+{% for affiliation in member.affiliations %}
+<p style="margin: 0.1px; "> -  {{ position }} </p>
+{% endfor %}
+
+{% include section.html %}
+### Research Team
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
