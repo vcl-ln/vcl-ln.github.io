@@ -6,11 +6,6 @@ nav:
 ---
 
 ## {% include icon.html icon="fa-solid fa-microscope" %}Publications
-
-xxx...
-
-{% include section.html %}
-
 {%
   include button.html
   icon="fa-solid fa-book-open"
