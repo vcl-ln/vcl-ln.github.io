@@ -1,9 +1,4 @@
----
-title: Team
-nav:
-  order: 3
-  tooltip: About our team
----
+
 
 {% include section.html %}
 ## {% include icon.html icon="fa-solid fa-microscope" %} Leader 
