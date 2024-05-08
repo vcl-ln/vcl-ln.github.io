@@ -7,10 +7,11 @@ nav:
 
 ## {% include icon.html icon="fa-solid fa-microscope" %} Leader 
 {% capture floatcontent %}
-{% include figure.html image="images/team/hayward-2.jpg" 
-    width = "250 px"
-    className = "portrait-image"
-    %}
+<img src={{images/team/hayward-2.jpg}}
+       style=" max-width: 250px; "
+       class="portrait-image"
+       loading="lazy"
+       />
 {% endcapture %}
 
 {% include float.html content=floatcontent %}
