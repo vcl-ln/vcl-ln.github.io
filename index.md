@@ -15,7 +15,7 @@ Our lab utilizes behavioral tasks alongside EEG and eye-tracking to explore our 
   icon="fa-solid fa-arrow-right"
   text="View our current projects"
   flip=true
-  style="bare"
+  style="text-align:center"
 %}
 
 {% endcapture %}
@@ -29,7 +29,7 @@ Our lab utilizes behavioral tasks alongside EEG and eye-tracking to explore our 
   flip = true
 %}
 
-{% capture text %}
+{% capture text style="text-align:center"%}
 
 The research conducted by the Visual Cognition Lab is diverse, ranging from person perception through to object recognition
 
@@ -39,7 +39,7 @@ The research conducted by the Visual Cognition Lab is diverse, ranging from pers
   icon="fa-solid fa-arrow-left"
   text="See our publications"
   flip=true
-  style="bare"
+  style="text-align:center"
 %}
 
 {% endcapture %}
