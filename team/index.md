@@ -5,18 +5,10 @@ nav:
   tooltip: About our team
 ---
 
-## {% include icon.html icon="fa-solid fa-microscope" %} Leader 
-{% capture floatcontent %}
-{% include list.html data="members" component="portrait" filters="role: pi, group: " %} 
-{% endcapture %}
-
-{% include float.html content=floatcontent %}
-{% assign member = site.members | where: "slug", "will-hayward" | first %}
-{% for position in member.position %}
-{% endfor %}
+## {% include icon.html icon="fa-solid fa-users" %} Research Team
 
 {% include section.html %}
-## {% include icon.html icon="fa-solid fa-users" %} Research Team
+{% include list.html data="members" component="portrait" filters="role: pi, group: " %} 
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
