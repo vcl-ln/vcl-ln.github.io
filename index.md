@@ -1,18 +1,36 @@
 ---
 ---
 
-### "Vision is the process of discovering from <br/>images what is present in the world, and where it is."<br/><br/>David Marr<br/>_History of Cognitive Neuroscience_
-
-
-{% include section.html %}
-
-Based in Lingnan University, our research mainly focuses on ...
+#### The Visual Cognition Lab based at Lingnan University, Hong Kong is led by Prof. Will Hayward. Our current diverse research topics include: person perception (specifically the development of facial familiarity and mechanisms of face recognition), post-COVID19 cognitions and perceptions, and finally, the perceptual and cognitive evaluations of art. 
 
 {% include section.html %}
 
 {% capture text %}
 
-We conduct research with ...
+Our lab utilizes behavioral tasks alongside EEG and eye-tracking to explore our research topics
+
+{%
+  include button.html
+  link="projects"
+  icon="fa-solid fa-arrow-right"
+  text="View our current projects"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="projects"
+  title="Our Current Projects"
+  text=text
+%}
+
+{% capture text %}
+
+The research conducted by the Visual Cognition Lab is diverse, ranging from person perception through to object recognition
 
 {%
   include button.html
@@ -35,7 +53,7 @@ We conduct research with ...
 
 {% capture text %}
 
-We are strongly committed to mentoring young scientists
+Meet the Lab members, both present and past 
 
 {%
   include button.html
