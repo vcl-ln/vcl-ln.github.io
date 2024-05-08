@@ -7,7 +7,7 @@ nav:
 
 ## {% include icon.html icon="fa-solid fa-microscope" %} Leader 
 {% capture floatcontent %}
-<img src="/images/team/hayward-2.jpg"
+<img src="images/team/hayward-2.jpg"
        style=" max-width: 250px; "
        class="portrait-image"
        loading="lazy"
