@@ -9,7 +9,7 @@ nav:
 
 {% include section.html dark=true %}
 
-We are actively recruiting participants to contribute to our projects. Please also join our mailing list to receive a notification when we are recruiting participants! 
+We are actively recruiting participants to contribute to our projects. Please click the button below to check out the most recent participant recruitment. Please also join our mailing list to receive a notification when we are recruiting participants! 
 
 {%
   include button.html
