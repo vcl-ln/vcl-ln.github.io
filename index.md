@@ -62,7 +62,7 @@ Meet the Lab members, both present and past
   icon="fa-solid fa-arrow-right"
   text="Meet our team"  
   flip=true
-  style="bare"
+  style="text-align:center"
 %}
 
 {% endcapture %}
