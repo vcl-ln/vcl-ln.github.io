@@ -7,9 +7,11 @@ nav:
 
 ## {% include icon.html icon="fa-solid fa-tools" %}Current Projects
 
+We have a diverse range of projects currently running. Please visit the links to our projects below.  
+
 {% include section.html dark=true %}
 
-We are actively recruiting participants to contribute to the science...
+We are actively recruiting participants to contribute to our projects. Please also join our mailing list to receive a notification when we are recruiting participants! 
 
 {%
   include button.html
