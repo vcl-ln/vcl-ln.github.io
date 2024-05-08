@@ -28,7 +28,7 @@ We conduct research with ...
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="publications"
   title="Our Research"
   text=text
 %}
