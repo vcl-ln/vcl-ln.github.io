@@ -7,7 +7,7 @@ nav:
 
 ## {% include icon.html icon="fa-solid fa-microscope" %} Leader 
 {% capture floatcontent %}
-{% include list.html data="members" component="portrait-image" filters="role: pi" %} 
+{% include list.html data="members/will-hayward.html" component="portrait" %} 
 {% endcapture %}
 
 {% include float.html content=floatcontent %}
