@@ -7,11 +7,7 @@ nav:
 
 ## {% include icon.html icon="fa-solid fa-tools" %}Current Projects
 
-We have a diverse range of projects currently running. Please visit the links to our projects below.  
-
 {% include section.html dark=true %}
-
-We are actively recruiting participants to contribute to our projects. Please also join our mailing list to receive a notification when we are recruiting participants! 
 
 {%
   include button.html
@@ -23,8 +19,7 @@ We are actively recruiting participants to contribute to our projects. Please al
 
 {% include section.html %}
 
-The links below represent our current areas of research focus.  
-Don't see something here you think ought to be here?  Inquire about joining our lab!
+We are actively recruiting participants to contribute to our projects. Please also join our mailing list to receive a notification when we are recruiting participants! 
 
 {% include section.html %}
 
