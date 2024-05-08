@@ -15,7 +15,7 @@ nav:
 {% include section.html dark=true %}
 
 We are strongly committed to mentoring and supporting the growth of budding researchers. 
-If you are interested in joining the lab as a research assistant, PhD student, or MPhil student, feel free to email us. 
+If you are interested in joining the lab as a research assistant, PhD student, or MPhil student, click the button below and check it out. 
 
 {%
   include button.html
