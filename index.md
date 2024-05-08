@@ -76,6 +76,7 @@ Meet the Lab members, both present and past
   title="Our Team"
   flip = true
   text=text
+  style="text-align:center"
 %}
 
 {% include section.html %}
