@@ -54,7 +54,7 @@ The research conducted by the Visual Cognition Lab is diverse, ranging from pers
 
 {% capture text %}
 
-Meet the Lab members, both present and past 
+Meet the Lab members, both present and past... 
 
 {%
   include button.html
