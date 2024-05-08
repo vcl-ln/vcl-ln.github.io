@@ -1,7 +1,7 @@
 ---
 ---
 
-### The Visual Cognition Lab based at Lingnan University, Hong Kong is led by Prof. Will Hayward. Our current diverse research topics include: person perception (specifically the development of facial familiarity and mechanisms of face recognition), post-COVID19 cognitions and perceptions, and finally, the perceptual and cognitive evaluations of art.
+** The Visual Cognition Lab based at Lingnan University, Hong Kong is led by Prof. Will Hayward. Our current diverse research topics include: person perception (specifically the development of facial familiarity and mechanisms of face recognition), post-COVID19 cognitions and perceptions, and finally, the perceptual and cognitive evaluations of art.**
 
 {% include section.html %}
 
