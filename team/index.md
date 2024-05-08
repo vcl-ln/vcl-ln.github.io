@@ -7,7 +7,6 @@ nav:
 
 ## {% include icon.html icon="fa-solid fa-users" %} Research Team
 
-{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: pi, group: " %} 
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
