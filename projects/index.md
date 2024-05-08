@@ -9,6 +9,8 @@ nav:
 
 {% include section.html dark=true %}
 
+We are actively recruiting participants to contribute to our projects. Please also join our mailing list to receive a notification when we are recruiting participants! 
+
 {%
   include button.html
   icon="fa-solid fa-book-open-reader"
@@ -16,10 +18,6 @@ nav:
   link="participate"
   style="button"
 %}
-
-{% include section.html %}
-
-We are actively recruiting participants to contribute to our projects. Please also join our mailing list to receive a notification when we are recruiting participants! 
 
 {% include section.html %}
 
