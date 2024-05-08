@@ -5,15 +5,14 @@ nav:
   tooltip: About our team
 ---
 
-### {% include icon.html icon="fa-solid fa-microscope" %} Director 
+## {% include icon.html icon="fa-solid fa-microscope" %} Leader 
 {% capture floatcontent %}
-{% include list.html data="members" component="portrait" filters="role: pi" %} 
+{% include list.html data="members" component="portrait-image" filters="role: pi" %} 
 {% endcapture %}
 
 {% include float.html content=floatcontent %}
 {% assign member = site.members | where: "slug", "will-hayward" | first %}
-{% for affiliation in member.affiliations %}
-<p style="margin: 0.1px; "> -  {{ position }} </p>
+{% for position in member.position %}
 {% endfor %}
 
 {% include section.html %}
