@@ -7,7 +7,11 @@ nav:
 
 ## {% include icon.html icon="fa-solid fa-envelope" %}Contact
 
-Our lab is part of the
+We are strongly committed to mentoring and supporting the growth of budding researchers. 
+
+If you are interested in joining the lab as a research assistant, PhD student, or MPhil student, feel free to email us. 
+
+We also welcome emails from fellow researchers who would like to collaborate on any of our projects. 
 
 {%
   include figure.html
