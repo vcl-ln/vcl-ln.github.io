@@ -16,7 +16,7 @@ We conduct research with ...
 
 {%
   include button.html
-  link="research"
+  link="publications"
   icon="fa-solid fa-arrow-left"
   text="See our publications"
   flip=true
