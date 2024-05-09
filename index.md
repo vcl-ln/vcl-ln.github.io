@@ -65,6 +65,15 @@ Meet the Lab members, both present and past...
   style="text-align:center"
 %}
 
+{%
+  include button.html
+  link="join"
+  text="Join us"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="text-align:center"
+%}
+
 {% endcapture %}
 
 {%
