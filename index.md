@@ -3,7 +3,7 @@
 
 The Visual Cognition Lab based at Lingnan University, Hong Kong is led by Prof. Will Hayward. The research conducted by the Visual Cognition Lab is diverse, ranging from person perception through to post-COVID cognitions and perceptions. Our lab utilises behavioural tasks alongside EEG and eye-tracking to explore our research topics. 
 
-The Visual Cognition Lab is also part of the Cognitive Science Group at the Psychology department at Lingnan University.  
+The Visual Cognition Lab is also part of the [Cognitive Science Group](https://cognitive-science.group/) at the Psychology department at Lingnan University.  
 
 {% include section.html %}
 
