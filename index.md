@@ -24,7 +24,7 @@ Our current research projects include: the development of facial familiarity, me
 
 {%
   include feature.html
-  image="images/front_page/will_vss.JPG"
+  image="images/front_page/will_csc.JPG"
   link="projects"
   title="Our Current Projects"
   text=text
@@ -48,7 +48,7 @@ The research conducted by the Visual Cognition Lab is diverse, ranging from pers
 
 {%
   include feature.html
-  image="images/front_page/will_nian_vss.JPG"
+  image="images/front_page/will_vss.JPG"
   link="publications"
   title="Our Research"
   text=text
