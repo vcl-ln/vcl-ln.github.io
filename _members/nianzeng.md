@@ -1,6 +1,6 @@
 ---
 name: Nianzeng ZHONG
-position: Postdoctorate Fellow
+position: Post-doctoral Fellow
 image: images/team/nianzeng.jpg
 role: postdoc
 links:

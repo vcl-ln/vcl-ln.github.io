@@ -1,6 +1,6 @@
 ---
 name: Dana L. WALKER 
-position: Postdoctorate Fellow
+position: Post-doctoral Fellow
 image: images/team/dana.jpg
 role: postdoc
 links:
