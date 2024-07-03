@@ -19,6 +19,6 @@ We are actively recruiting participants to contribute to our projects. Please cl
   include button.html
   icon="fa-solid fa-book-open-reader"
   text="Inquiring our studies"
-  link="visual_cognition_lab@ln.edu.hk"
+  link="mailto: visual_cognition_lab@ln.edu.hk"
   style="button"
 %}
