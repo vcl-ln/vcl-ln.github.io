@@ -9,7 +9,7 @@ nav:
 
 We have a diverse range of projects currently running. Please visit the links to our projects below.  
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: featured" style="small"%}
 
 {% include section.html dark=true %}
 
