@@ -19,7 +19,7 @@ We are actively recruiting participants to contribute to our projects. Please cl
   include button.html
   icon="fa-solid fa-book-open-reader"
   type="email"
-  text="Inquiring our studies"
+  text="Inquiring about our studies"
   link=site.links.email
   style="button"
 %}
