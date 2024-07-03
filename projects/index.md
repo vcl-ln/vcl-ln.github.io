@@ -11,10 +11,6 @@ We have a diverse range of projects currently running. Please visit the links to
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
 {% include section.html dark=true %}
 
 We are actively recruiting participants to contribute to our projects. Please click the button below to check out the most recent participant recruitment. Please also join our mailing list to receive a notification when we are recruiting participants! 
