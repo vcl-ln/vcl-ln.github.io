@@ -13,12 +13,12 @@ We have a diverse range of projects currently running. Please visit the links to
 
 {% include section.html dark=true %}
 
-We are actively recruiting participants to contribute to our projects. Please click the button below to check out the most recent participant recruitment. Please also join our mailing list to receive a notification when we are recruiting participants! 
+We are actively recruiting participants to contribute to our projects. Please click the button below to send us an email for more information. Please do also join our mailing list to receive a notification when we are recruiting participants! 
 
 {%
   include button.html
   icon="fa-solid fa-book-open-reader"
-  text="Participate our studies"
-  link="participate"
+  text="Inquiring our studies"
+  link="visual_cognition_lab@ln.edu.hk"
   style="button"
 %}
