@@ -19,7 +19,7 @@ We welcome emails from fellow researchers who would like to collaborate on any o
 {%
   include button.html
   type="email"
-  text=site.links.email
+  text="Contact us"
   link=site.links.email
 %}
 
