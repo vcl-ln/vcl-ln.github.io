@@ -23,3 +23,10 @@ We are actively recruiting participants to contribute to our projects. Please cl
   link=site.links.email
   style="button"
 %}
+
+{%
+  include button.html
+  type="email"
+  text="Subscribe us"
+  link='http://eepurl.com/iTdTeM'
+%}
