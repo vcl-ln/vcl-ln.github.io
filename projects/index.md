@@ -27,6 +27,6 @@ We are actively recruiting participants to contribute to our projects. Please cl
 {%
   include button.html
   type="info"
-  text="Subscribe us"
+  text="Subscribe to our mailing list"
   link='http://eepurl.com/iTdTeM'
 %}
