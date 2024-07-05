@@ -6,7 +6,7 @@ The Visual Cognition Lab based at Lingnan University, Hong Kong is led by Prof. 
 The Visual Cognition Lab is also part of the [Cognitive Science Group](https://cognitive-science.group/) at the Psychology department at Lingnan University.  
 
 
-<p style="text-align:center"><b><a href="http://eepurl.com/iTdTeM">Click here to subscribe to our latest news and experimental recruitment!</a></b></p>
+<a href="http://eepurl.com/iTdTeM"><center><b>Click here to subscribe to our latest news and experimental recruitment!</b></center></a></b>
 
 {% include section.html %}
 
