@@ -3,7 +3,7 @@ title: Lingnan Visual Cognition Lab
 subtitle: Department of Psychology, Lingnan University
 description: vision, facial recognition, attention, decision-making, modeling
 header: images/Venice.jpg
-footer: images/Venice.jpg
+footer: images/background.jpg
 
 
 # site social media and other links
@@ -17,7 +17,7 @@ links:
 
 # base directory where site is hosted
 header: images/Venice.jpg
-footer: images/Venice.jpg
+footer: images/background.png
 baseurl: /
 
 ### jekyll settings
