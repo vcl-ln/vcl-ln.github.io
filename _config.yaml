@@ -16,7 +16,7 @@ links:
   # youtube: vcl-ln
 
 # base directory where site is hosted
-header: images/background.png
+header: images/Venice.jpg
 footer: images/background.png
 baseurl: /
 
