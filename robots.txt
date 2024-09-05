@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: 
+
+Sitemap: https://vcl-ln.github.io/sitemap.xml
