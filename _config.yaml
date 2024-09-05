@@ -18,7 +18,7 @@ links:
 # base directory where site is hosted
 header: images/Venice.jpg
 footer: images/background.png
-baseurl: /
+baseurl: /vcl-ln.github.io
 
 ### jekyll settings
 
