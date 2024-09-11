@@ -2,7 +2,7 @@
 name: Ho Fai (Frankie) LAW
 position: Assistant Research Officer
 image: images/team/frankie.jpg
-role: labmanager
+role: aro
 links:
   email: frankielaw@ln.edu.hk
 affiliations:

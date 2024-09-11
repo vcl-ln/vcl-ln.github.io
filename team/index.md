@@ -11,7 +11,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
-{% include list.html data="members" component="portrait" filters="role: labmanager, group: " %}
+{% include list.html data="members" component="portrait" filters="role: aro, group: " %}
 
 {% include section.html dark=true %}
 
