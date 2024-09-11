@@ -26,7 +26,7 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
-labmanger:
+labmanager:
   icon: fa-solid fa-clipboard-check
   description: Lab manager
 
