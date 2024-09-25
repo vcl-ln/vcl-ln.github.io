@@ -9,7 +9,7 @@ The Visual Cognition Lab is also part of the [Cognitive Science Group](https://c
   include button.html
   icon="fa-solid fa-handshake-angle"
   type='link'
-  text="Check here for our recent recruitment!"
+  text="Check here to join our team!"
   link="join"
   style="button"
 %}
