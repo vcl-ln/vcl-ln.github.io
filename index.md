@@ -14,7 +14,7 @@ The Visual Cognition Lab is also part of the [Cognitive Science Group](https://c
   style="button"
 %}
 
-<a href="http://eepurl.com/iTdTeM"><center><b>Click here to subscribe to our latest news and experimental recruitment!</b></center></a>
+<a href="http://eepurl.com/iTdTeM"><center><b>Click here to subscribe to our latest newsletter!</b></center></a>
 
 {% include section.html %}
 
