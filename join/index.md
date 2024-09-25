@@ -3,7 +3,7 @@ title: Join the Team
 ---
 
 ## {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
-For more information, pleace <a href="mailto:visual_cognition_lab@ln.edu.hk">contact us</a>!
+For more information, please <a href="mailto:visual_cognition_lab@ln.edu.hk">contact us</a>!
 
 ### Undergraduate Students
 We welcome undergraduate students into our lab.
