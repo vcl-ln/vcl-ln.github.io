@@ -11,6 +11,6 @@ Recognising a familiar face is often important for successful social interaction
  
 If you have any questions or would like to reach out about this project, contact the co-ordinating researcher, <a href="mailto:danawalker@ln.edu.hk">Dr. Dana Walker</a>.
 
-## [Social Aspects and Face Recognition](/FaceFamiliarity/stage3faces)
+## [Social Aspects and Face Recognition](/projects/FaceFamiliarity/stage3faces)
 
 Please click to know more about the current experiment.
