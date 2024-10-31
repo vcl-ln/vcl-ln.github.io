@@ -5,12 +5,12 @@ title: SAFR1
 # Social Aspects and Face Recognition Study
 
 ### Description
-The purpose of this investigation is to examine the association between social aspects (social interaction, social personality traits, social networks) and people's face recognition ability.
+The purpose of this investigation is to examine the association between social aspects and people's face recognition ability.
 
 ### Eligibility
-Anyone who is a student or staff with Normal or corrected-to-normal vision in Lingnan University. You are required to use a computer (i.e. desktop computer or laptop computer) to complete the experiment.
+East-Asian ethnicity; able to read and understand English; have normal or correct-to-normal vision; must complete experiment on a computer (Windows or Mac IO).
 
 ### Instruction
-Please click the link below to fill in the consent form. After completing the consent form, you will be directed to Testable, an online testing platform to complete the experiment. Participation in this study will take most people 60 minutes to complete. You are free to withdraw your participation at any time.
+Please click the link below to fill in the consent form. After completing the consent form, you will be directed to Testable, an online testing platform to complete the experiment. Participation in this study will take most people 1 hour and 15 minutes (75 minutes) to complete.
 
-[Consent Form](https://forms.office.com/r/u45rE5TLM3)
+[Click here to start doing your experiment now!](https://forms.office.com/r/u45rE5TLM3)
