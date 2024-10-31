@@ -13,4 +13,4 @@ East-Asian ethnicity; able to read and understand English; have normal or correc
 ### Instructions
 Please click the link below to fill in the consent form. After completing the consent form, you will be directed to Testable, an online testing platform to complete the experiment. Participation in this study will take most people 1 hour and 15 minutes (75 minutes) to complete.
 
-[Click here to start doing your experiment now!](https://forms.office.com/r/u45rE5TLM3)
+[CONSENT FORM](https://forms.office.com/r/u45rE5TLM3)
