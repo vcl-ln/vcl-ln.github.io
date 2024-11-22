@@ -2,6 +2,8 @@
 title: SAFR1
 ---
 
+# *Recruitment has been paused due to sufficient number of participants. Please check back in a couple of days to see if more participants are required.
+
 # Social Aspects and Face Recognition Study
 
 ### Description
