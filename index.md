@@ -91,7 +91,7 @@ Meet the Lab members, both present and past...
 
 {%
   include feature.html
-  image="images/front_page/team_img.png"
+  image="images/front_page/teamphoto2025.jpg"
   link="team"
   title="Our Team"
   flip = true
