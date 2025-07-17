@@ -59,7 +59,7 @@ The research conducted by the Visual Cognition Lab is diverse, ranging from pers
 
 {%
   include feature.html
-  image="images/front_page/will_nian_vss.JPG"
+  image="images/front_page/vss2025_wCarl.jpg"
   link="publications"
   title="Our Research"
   text=text
