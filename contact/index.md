@@ -27,7 +27,7 @@ We welcome emails from fellow researchers who would like to collaborate on any o
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://maps.app.goo.gl/pCzStxZEKhE8RPup9"
+  link="https://maps.app.goo.gl/PDtHLnJXQ5BH1Dwq7"
 %}
 
 {% capture content %}
@@ -41,3 +41,4 @@ We welcome emails from fellow researchers who would like to collaborate on any o
   content=content
   style="square"
 %}
+
