@@ -69,36 +69,6 @@
   orcid: 0000-0002-7248-0301
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.31234/osf.io/t89aw
-  title: 'Seeing Both the Forest and the Trees: Distinct Resolution of Hierarchical
-    Representations in Visual Working Memory'
-  authors:
-  - Tong Tina Liu
-  - Zhongting Chen
-  - Matt Oxner
-  - Wanying Wang
-  - Yixuan Ku
-  - William Hayward
-  publisher: Center for Open Science
-  date: '2019-06-15'
-  link: https://doi.org/g96h5q
-  orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31219/osf.io/hu6w8
-  title: Prediction errors in surface segmentation are reflected in the visual mismatch
-    negativity, independently of task and surface features
-  authors:
-  - Matt Oxner
-  - Eric T. Rosentreter
-  - William Hayward
-  - Paul Michael Corballis
-  publisher: Center for Open Science
-  date: '2019-04-28'
-  link: https://doi.org/g96h5r
-  orcid: 0000-0002-7248-0301
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1080/13506285.2018.1541035
   title: The relation of discrete stimuli can be integrated despite the failure of
     conscious identification
