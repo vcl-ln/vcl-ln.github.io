@@ -128,7 +128,7 @@ def main(entry):
         sources.append(source)
 
     # --- Exclusion list (user adds IDs here to remove unwanted articles) ---
-    exclude_path = "_data/google-scholar-exclude.yaml"
+    exclude_path = "_data/gs-exclude.yaml"
     if os.path.isfile(exclude_path):
         try:
             exclude_data = load_data(str(exclude_path))
