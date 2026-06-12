@@ -41,32 +41,44 @@ def main(entry):
     if not api_key:
         raise Exception('No "GOOGLE_SCHOLAR_API_KEY" env var')
 
-    # serp api properties
-    params = {
-        "engine": "google_scholar_author",
-        "api_key": api_key,
-        "num": 100,  # max allowed
-    }
-
     # get id from entry
     _id = get_safe(entry, "gsid", "")
     if not _id:
         raise Exception('No "gsid" key')
 
-    # query api
+    # fetch all articles with pagination (num=100 max per page)
     @log_cache
     @cache.memoize(name=__file__, expire=1 * (60 * 60 * 24))
-    def query(_id):
-        params["author_id"] = _id
-        return get_safe(GoogleSearch(params).get_dict(), "articles", [])
+    def fetch_all(_id):
+        all_articles = []
+        start = 0
+        page = 1
+        while True:
+            p = {
+                "engine": "google_scholar_author",
+                "api_key": api_key,
+                "author_id": _id,
+                "num": 100,
+                "start": start,
+            }
+            result = GoogleSearch(p).get_dict()
+            articles = get_safe(result, "articles", [])
+            log(f"    Page {page}: {len(articles)} article(s)", 2)
+            all_articles.extend(articles)
+            if len(articles) < 100:
+                break
+            start += 100
+            page += 1
+        return all_articles
 
-    response = query(_id)
+    all_articles = fetch_all(_id)
+    log(f"Total: {len(all_articles)} article(s)", 1)
 
     # list of sources to return
     sources = []
 
-    # go through response and format sources
-    for work in response:
+    # go through all articles and format sources
+    for work in all_articles:
         year = get_safe(work, "year", "")
         title = get_safe(work, "title", "")
         authors = get_safe(work, "authors", "")
