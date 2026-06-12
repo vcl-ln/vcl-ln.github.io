@@ -74,21 +74,35 @@ def main(entry):
     all_articles = fetch_all(_id)
     log(f"Total: {len(all_articles)} article(s)", 1)
 
+    # deduplicate by title (prefer entries with a DOI)
+    article_map = {}
+    for work in all_articles:
+        title = get_safe(work, "title", "").lower().strip().rstrip(".")
+        if not title:
+            continue
+        authors = get_safe(work, "authors", "")
+        author_first = authors.split(",")[0].strip() if authors else ""
+        doi_id = find_doi(title, author_first) if title else None
+
+        if title not in article_map:
+            article_map[title] = {"doi_id": doi_id, "work": work}
+        elif doi_id and not article_map[title]["doi_id"]:
+            # second occurrence has a DOI but first didn't → replace
+            article_map[title] = {"doi_id": doi_id, "work": work}
+        # else: already have a DOI or same quality → keep first
+
+    log(f"After dedup: {len(article_map)} unique article(s)", 1)
+
     # list of sources to return
     sources = []
 
-    # go through all articles and format sources
-    for work in all_articles:
+    # build sources from deduplicated articles
+    for title_key, info in article_map.items():
+        work = info["work"]
+        doi_id = info["doi_id"]
         year = get_safe(work, "year", "")
         title = get_safe(work, "title", "")
         authors = get_safe(work, "authors", "")
-        author_first = authors.split(",")[0].strip() if authors else ""
-
-        # try to find DOI via Crossref
-        if title:
-            doi_id = find_doi(title, author_first)
-        else:
-            doi_id = None
 
         if doi_id:
             log(f"Found DOI: {doi_id}", 3)
@@ -98,7 +112,6 @@ def main(entry):
             # no DOI — keep Google Scholar citation data as fallback
             source = {
                 "id": get_safe(work, "citation_id", ""),
-                # api does not provide Manubot-citeable id, so keep citation details
                 "title": title,
                 "authors": (
                     list(map(str.strip, authors.split(","))) if authors else []
