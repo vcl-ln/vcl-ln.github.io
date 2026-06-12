@@ -127,4 +127,21 @@ def main(entry):
         # add source to list
         sources.append(source)
 
+    # --- Exclusion list (user adds IDs here to remove unwanted articles) ---
+    exclude_path = "_data/google-scholar-exclude.yaml"
+    if os.path.isfile(exclude_path):
+        try:
+            exclude_data = load_data(str(exclude_path))
+            exclude_ids = set()
+            for entry in exclude_data:
+                eid = get_safe(entry, "id", "")
+                if eid:
+                    exclude_ids.add(str(eid))
+            if exclude_ids:
+                before = len(sources)
+                sources = [s for s in sources if get_safe(s, "id", "") not in exclude_ids]
+                log(f"Excluded: {before - len(sources)} article(s)", 1)
+        except Exception:
+            log("Could not parse exclude file", 2, "WARNING")
+
     return sources

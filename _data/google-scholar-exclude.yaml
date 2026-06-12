@@ -1,0 +1,8 @@
+# Add IDs here to exclude unwanted articles from Google Scholar
+# Find the ID in the article's display on the website, then add it below
+#
+# Examples:
+# - id: doi:10.1093/oso/9780198894643.005.0002
+# - id: MyN21LIAAAAJ:some_citation_id
+---
+- id: doi:10.1093/oso/9780198894643.005.0002
