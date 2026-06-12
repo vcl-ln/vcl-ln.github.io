@@ -2107,17 +2107,6 @@
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: doi:10.1093/oso/9780198894643.005.0002
-  title: From IT Services to Cloud Services
-  authors:
-  - Paul Brooker
-  - Margaret Hayward
-  publisher: Rational Leadership
-  date: '2023-11-24'
-  link: https://doi.org/hb7kqz
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: doi:10.5670/oceanog.2000.42
   title: Judi Rhodes' Farewell Address
   authors:
