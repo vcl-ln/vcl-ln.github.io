@@ -480,6 +480,18 @@
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: doi:10.1167/13.1.15
+  title: 'Integrative processing of invariant aspects of faces: Effect of gender and
+    race processing on identity analysis'
+  authors:
+  - M. Zhao
+  - W. G. Hayward
+  publisher: Journal of Vision
+  date: '2013-01-10'
+  link: https://doi.org/gbcj5w
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.3758/s13423-018-1433-x
   title: Integrating predictive frameworks and cognitive models of face perception
   authors:
@@ -490,18 +502,6 @@
   publisher: Psychonomic Bulletin &amp; Review
   date: '2018-02-08'
   link: https://doi.org/gfrrz5
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.1167/13.1.15
-  title: 'Integrative processing of invariant aspects of faces: Effect of gender and
-    race processing on identity analysis'
-  authors:
-  - M. Zhao
-  - W. G. Hayward
-  publisher: Journal of Vision
-  date: '2013-01-10'
-  link: https://doi.org/gbcj5w
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1240,17 +1240,6 @@
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: doi:10.1080/01926180701226762
-  title: 'The Penile Plethysmograph, Abel Assessment for Sexual Interest, and MSI-II:
-    Are They Speaking the Same Language?'
-  authors:
-  - Dean Tong
-  publisher: The American Journal of Family Therapy
-  date: '2007-05-01'
-  link: https://doi.org/fwj6zg
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: doi:10.1167/jov.25.9.2344
   title: Social Correlates of Familiar and Unfamiliar Face Recognition for Chinese
     Faces in an East Asian Culture
@@ -1345,6 +1334,33 @@
   publisher: Center for Open Science
   date: '2019-06-15'
   link: https://doi.org/g96h5q
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1177/0301006619867865
+  title: "\u201CThere Is No\n                    <i>Face</i>\n                   \
+    \ Like Home\u201D: Ratings for Cultural Familiarity to Own and Other Facial\n\
+    \                    <i>Dialects</i>\n                    of Emotion With and\
+    \ Without Conscious Awareness in a British Sample"
+  authors:
+  - Myron Tsikandilakis
+  - Leonie Kausel
+  - Gonzalo Boncompte
+  - Zhaoliang Yu
+  - Matt Oxner
+  - Renzo Lanfranco
+  - Persefoni Bali
+  - Poutasi Urale
+  - Jonathan Peirce
+  - "Vladimir L\xF3pez"
+  - Eddie Mun Wai Tong
+  - Hayward William
+  - David Carmel
+  - Jan Derrfuss
+  - Peter Chapman
+  publisher: Perception
+  date: '2019-08-27'
+  link: https://doi.org/ghws9z
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
