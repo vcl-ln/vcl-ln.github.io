@@ -1,9 +1,6 @@
 # Add IDs here to exclude unwanted articles from Google Scholar
-# Find the ID in the article's display on the website, then add it below
-#
-# Examples:
-# - id: doi:10.1093/oso/9780198894643.005.0002
-# - id: MyN21LIAAAAJ:some_citation_id
+# Articles without any "Hayward" author are definitely wrong
+# Also some with "Hayward" but wrong person (Anthony, Margaret, Benjamin, etc.)
 ---
 - id: doi:10.1093/oso/9780198894643.005.0002
 - id: doi:10.1093/ref:odnb/60364
@@ -65,3 +62,4 @@
 - id: doi:10.1523/jneurosci.1168-23.2023
 - id: MyN21LIAAAAJ:6ZxmRoH8BuwC
 - id: MyN21LIAAAAJ:VLnqNzywnoUC
+- id: doi:10.1080/01926180701226762
