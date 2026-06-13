@@ -1018,6 +1018,18 @@
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: doi:10.24123/aipj.v20i3.4478
+  title: 'It''s a Small World After All: Western Usability Guidelines Predict Behavior
+    of Chinese Users of On-Line Bookstores'
+  authors:
+  - Josephine K.Y. Yau
+  - William G. Hayward
+  publisher: ANIMA Indonesian Psychological Journal
+  date: '2005-04-01'
+  link: https://doi.org/hb7kpd
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.1068/ii59
   title: 'Establishing a Majority: Observer Race Influences Estimates of Crowd Ethnicity'
   authors:
@@ -1228,6 +1240,42 @@
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: doi:10.1167/11.11.668
+  title: Why are face composites difficult to recognize?
+  authors:
+  - W. Hayward
+  - K. Crookes
+  - S. Favelle
+  - G. Rhodes
+  publisher: Journal of Vision
+  date: '2011-09-23'
+  link: https://doi.org/ffxw6m
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/8.6.1072
+  title: Dissociating preattentive vision and preattentive attentional guidance
+  authors:
+  - L. Chan
+  - W. Hayward
+  publisher: Journal of Vision
+  date: '2010-03-19'
+  link: https://doi.org/dswmv6
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1068/ic318
+  title: On the Relationship between Space- and Object-Based Attention
+  authors:
+  - Tong Liu
+  - William G. Hayward
+  - Jason S. McCarley
+  publisher: i-Perception
+  date: '2011-05-01'
+  link: https://doi.org/gcdt4m
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.3758/app.71.7.1534
   title: Sensitivity to attachment, alignment, and contrast polarity variation in
     local perceptual grouping
@@ -1237,6 +1285,19 @@
   publisher: Attention, Perception &amp; Psychophysics
   date: '2009-09-28'
   link: https://doi.org/crpr6f
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/8.6.838
+  title: Dissociating the effects of viewpoint disparity and image similarity in mental
+    rotation and object recognition
+  authors:
+  - O. Cheung
+  - W. Hayward
+  - I. Gauthier
+  publisher: Journal of Vision
+  date: '2010-04-02'
+  link: https://doi.org/b3zqwm
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1440,6 +1501,18 @@
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: doi:10.7490/f1000research.1110796.1
+  title: Adaptation to the perceived and imagined gender of faces
+  authors:
+  - Edoardo Zamuner
+  - Oxner Matt
+  - Hayward William
+  publisher: F1000 Research Ltd
+  date: '2015-10-13'
+  link: https://doi.org/hb7kqb
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.1167/12.9.1166
   title: Interactions between space-, surface-, and object-based attention
   authors:
@@ -1448,6 +1521,163 @@
   publisher: Journal of Vision
   date: '2012-08-10'
   link: https://doi.org/hb7kqf
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/12.9.988
+  title: Race differences in eye movements to three-quarter view faces
+  authors:
+  - K. Crookes
+  - W. Hayward
+  publisher: Journal of Vision
+  date: '2012-08-10'
+  link: https://doi.org/hb7kqg
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/12.9.297
+  title: Recollection and familiarity for rotated objects
+  authors:
+  - W. Hayward
+  publisher: Journal of Vision
+  date: '2012-08-10'
+  link: https://doi.org/hb7kqh
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/11.11.1305
+  title: How do people quit visual search? Justifications for a deadline model
+  authors:
+  - L. Chan
+  - W. Hayward
+  publisher: Journal of Vision
+  date: '2011-09-23'
+  link: https://doi.org/bnh4jx
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/11.11.679
+  title: The effect of perceptual expertise on visual short-term memory
+  authors:
+  - W. Zhang
+  - W. Hayward
+  publisher: Journal of Vision
+  date: '2011-09-23'
+  link: https://doi.org/fcdwmb
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1068/ic237
+  title: Face Inversion Disproportionately Disrupts Detection of Vertical versus Horizontal,
+    Not Long-Range versus Short-Range, Spatial Relations
+  authors:
+  - Kate Crookes
+  - William G. Hayward
+  publisher: i-Perception
+  date: '2011-05-01'
+  link: https://doi.org/gcdzvj
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/10.7.1276
+  title: Further evidence on dimension-specific lateral inhibition in visual search
+  authors:
+  - L. Chan
+  - W. Hayward
+  publisher: Journal of Vision
+  date: '2010-08-17'
+  link: https://doi.org/fcbtbg
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/10.7.1080
+  title: Divergent representations of manipulable and non-manipulable objects revealed
+    with repetition blindness
+  authors:
+  - I. Harris
+  - A. Murray
+  - W. Hayward
+  - C. O'Callaghan
+  - S. Andrews
+  publisher: Journal of Vision
+  date: '2010-08-13'
+  link: https://doi.org/c7w7fr
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/9.8.1201
+  title: Does visual search involve a salience map?
+  authors:
+  - L. Chan
+  - W. Hayward
+  publisher: Journal of Vision
+  date: '2010-03-21'
+  link: https://doi.org/dx5nkm
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/9.8.500
+  title: Holistic gender perception for both own-race and other-race faces
+  authors:
+  - M. Zhao
+  - W. Hayward
+  publisher: Journal of Vision
+  date: '2010-03-24'
+  link: https://doi.org/d9t96q
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/9.8.504
+  title: Dissociating contributions of configural and component information to the
+    own-race advantage in face recognition
+  authors:
+  - W. Hayward
+  - M. Zhao
+  - O. Cheung
+  - G. Rhodes
+  - I. Gauthier
+  publisher: Journal of Vision
+  date: '2010-03-24'
+  link: https://doi.org/dzb6zs
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1037/e520562012-085
+  title: 'Repetition blindness for rotated objects: Influence of object coherency'
+  authors:
+  - William G. Hayward
+  - Guomei Zhou
+  - Irina M. Harris
+  publisher: PsycEXTRA Dataset
+  date: '2009-01-01'
+  link: https://doi.org/hb7kqp
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/8.6.260
+  title: 'Other-race faces: Limitations of expert face processing'
+  authors:
+  - N. M. Elms
+  - C. J. Mondloch
+  - D. Maurer
+  - W. G. Hayward
+  - G. Rhodes
+  - J. Tanaka
+  - G. Zhou
+  publisher: Journal of Vision
+  date: '2010-03-20'
+  link: https://doi.org/cmg6k3
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/8.6.514
+  title: 2D images are not sufficient for testing 3D object recognition
+  authors:
+  - W. Hayward
+  - A. Pasqualotto
+  publisher: Journal of Vision
+  date: '2010-03-27'
+  link: https://doi.org/fvxhhj
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1461,6 +1691,71 @@
   publisher: Journal of Vision
   date: '2010-03-20'
   link: https://doi.org/cqkg9k
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/6.6.1028
+  title: 'Repetition advantage: Effects of inter-target and target-distractor discriminability'
+  authors:
+  - Y. K. Wong
+  - W. G. Hayward
+  publisher: Journal of Vision
+  date: '2010-03-18'
+  link: https://doi.org/bqfxnd
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/5.8.340
+  title: When is preattentive grouping sensitive to contrast polarity?
+  authors:
+  - L. K. H. Chan
+  - W. G. Hayward
+  publisher: Journal of Vision
+  date: '2010-03-16'
+  link: https://doi.org/bv855d
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/5.8.856
+  title: 'Viewpoint representation in object recognition: Evidence from repetition
+    blindness'
+  authors:
+  - G. Zhou
+  - W. G. Hayward
+  - I. M. Harris
+  publisher: Journal of Vision
+  date: '2005-09-01'
+  link: https://doi.org/dkxmqn
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1167/5.8.534
+  title: Own-race face effects in processing of configural and component information
+    by Chinese observers
+  authors:
+  - W. G. Hayward
+  - G. Rhodes
+  - C. Winkler
+  - A. Schwaninger
+  publisher: Journal of Vision
+  date: '2010-03-17'
+  link: https://doi.org/d4dxtz
+  gsid: MyN21LIAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: MyN21LIAAAAJ:VLnqNzywnoUC
+  title: Referred Journal Papers
+  authors:
+  - J Ciarrochi
+  - AY Chan
+  - J Bajgar
+  - P Caputi
+  - S Favelle
+  - WG Hayward
+  - '...'
+  publisher: Developmental Neuropsychology 17, 161-180, 0
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MyN21LIAAAAJ&cstart=100&pagesize=100&citation_for_view=MyN21LIAAAAJ:VLnqNzywnoUC
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
