@@ -1,4 +1,10 @@
 # New articles from Google Scholar (not yet in sources.yaml)
 # Review and merge relevant ones into sources.yaml before they appear on the site
 ---
-
+- id: doi:10.1037/0096-1523.24.2.427
+- id: doi:10.1080/13506280600783658
+- id: doi:10.1111/ejn.70726
+- id: doi:10.37514/wln-j.1994.18.8.05
+- id: doi:10.1093/ps/77.6.834
+- id: doi:10.1167/17.10.1001
+- id: doi:10.5465/apbpp.1999.27594599
